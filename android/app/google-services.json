@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422194940646",
+    "project_id": "crude-dc6ba",
+    "storage_bucket": "crude-dc6ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422194940646:android:f6ac2d5d3a2cc48d730927",
+        "android_client_info": {
+          "package_name": "com.hobbytracker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHQIwAeT4n08Yx7DEBqSQvqICE5tJn_rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
